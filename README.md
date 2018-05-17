@@ -1,0 +1,1 @@
+# pengenalan-Pola-dengan-PCA-dan-ELM
